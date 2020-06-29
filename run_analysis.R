@@ -3,7 +3,7 @@
 
 # load in the dplyr and tidyr packages
   library(dplyr, tdyr)
-
+ 
 ## Merge the training and test sets ####
 
 ## load each data set
