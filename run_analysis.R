@@ -109,5 +109,5 @@
       summarize_all(mean)
         
   # save the data
-    write.table(final, file = "final.txt")
+    write.table(final, file = "final.txt", row.names = FALSE)
     
